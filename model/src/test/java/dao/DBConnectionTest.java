@@ -2,8 +2,6 @@ package dao;
 
 import static org.junit.Assert.assertNotNull;
 
-import java.sql.ResultSet;
-
 import org.junit.Before;
 import org.junit.Test;
 
@@ -28,10 +26,9 @@ public class DBConnectionTest {
 		assertNotNull("The connection can't be null", dbc.getConnection());
 	}
 
-	@Test
-	public void testFillDatabase() throws Exception {
-		ResultSet res = dbc.fillDatabase("player", 1);
-		assertNotNull(res);
-	}
+	/*
+	 * @Test public void testFillDatabase() throws Exception { ResultSet res =
+	 * dbc.fillDatabase("player", 1); assertNotNull(res); }
+	 */
 
 }

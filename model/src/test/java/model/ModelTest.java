@@ -42,16 +42,13 @@ public class ModelTest implements Observer {
 	public void testGetObservableIsNotNull() throws Exception {
 		assertNotNull("The observable can't be null", m.getObservable());
 	}
-
-	@Test
-	public void testGetPlayer1IsNotNull() throws Exception {
-		assertNotNull("The Player1 can't be null", m.getPlayer1());
-	}
-
-	@Test
-	public void testGetPlayer2IsNotNull() throws Exception {
-		assertNotNull("The Player2 can't be null", m.getPlayer2());
-	}
+	/*
+	 * @Test public void testGetPlayer1IsNotNull() throws Exception {
+	 * assertNotNull("The Player1 can't be null", m.getPlayer1()); }
+	 * 
+	 * @Test public void testGetPlayer2IsNotNull() throws Exception {
+	 * assertNotNull("The Player2 can't be null", m.getPlayer2()); }
+	 */
 
 	@Test
 	public void testLoadArenaShouldCreateTheArena() throws Exception {
