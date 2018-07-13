@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/flori/Desktop/Tron Game/showboard/target/classes;C:/Users/flori/Desktop/Tron Game/contract/target/classes;C:/Users/flori/Desktop/Tron Game/controller/target/classes;C:/Users/flori/Desktop/Tron Game/model/target/classes;C:/Users/flori/Desktop/Tron Game/view/target/classes;C:/Users/flori/Desktop/Tron Game/main/target/classes;C:/Users/flori/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/flori/Desktop/Tron Game/showboard/src/main/java;C:/Users/flori/Desktop/Tron Game/showboard/target/generated-sources/annotations;C:/Users/flori/Desktop/Tron Game/contract/src/main/java;C:/Users/flori/Desktop/Tron Game/contract/target/generated-sources/annotations;C:/Users/flori/Desktop/Tron Game/controller/src/main/java;C:/Users/flori/Desktop/Tron Game/controller/target/generated-sources/annotations;C:/Users/flori/Desktop/Tron Game/model/src/main/java;C:/Users/flori/Desktop/Tron Game/model/target/generated-sources/annotations;C:/Users/flori/Desktop/Tron Game/view/src/main/java;C:/Users/flori/Desktop/Tron Game/view/target/generated-sources/annotations;C:/Users/flori/Desktop/Tron Game/main/src/main/java;C:/Users/flori/Desktop/Tron Game/main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/flori/Desktop/Tron Game/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tron 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/flori/Desktop/Tron Game/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tron 0.0.1-SNAPSHOT API'
